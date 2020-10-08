@@ -13,7 +13,7 @@ acti("Comprar Bici", (tarea)=>{
             acti("Pasear en bici", (tarea)=>{
                 console.log("Tarea: "+tarea);
                 
-            }, 5000)
+            }, 8000)
         }, 2000)
     }, 1000)
 }, 5000)
